@@ -17,3 +17,4 @@ if GetConvar('qb_locale', 'en') == 'fr' then
         phrases = Translations,
         warnOnMissing = true
     })
+end
